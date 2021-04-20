@@ -93,7 +93,7 @@ your real title.
 
 与 Debian 以及 Ubuntu 发布版本的兼容安装包可以通过 [Node.js 快照](#snap) 获得。
 
-## frm
+## fnm
 
 这是一个内置了 Rust，用于 Node.js 多发布版本的快速便捷管理工具。它可以让你处理诸如安装、卸载，以及根据当前目录自动切换 Node.js 版本的行为操作。
 安装 frm，请使用此[安装脚本](https://github.com/Schniz/fnm#using-a-script-macoslinux)。
